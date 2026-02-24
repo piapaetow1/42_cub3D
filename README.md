@@ -106,21 +106,21 @@ Example:
 
 # 🧠 Technical Concepts
 
-Raycasting algorithm
-DDA (Digital Differential Analyzer)
-Texture mapping
-Sprite rendering
-Event handling
-Real-time rendering
-2D map to 3D projection
-Collision detection
-Minimap rendering (bonus)
+Raycasting algorithm  
+DDA (Digital Differential Analyzer)   
+Texture mapping  
+Sprite rendering  
+Event handling  
+Real-time rendering  
+2D map to 3D projection  
+Collision detection  
+Minimap rendering (bonus)  
 Interactive objects (bonus)
 
 # 📚 Technologies Used
 
-C
-MiniLibX
-X11
-Math library
-Unix system calls
+C  
+MiniLibX  
+X11  
+Math library  
+Unix system calls  
