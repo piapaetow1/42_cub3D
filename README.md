@@ -79,12 +79,14 @@ make
 ```
 
 Run with:
-
+```bash
 ./cub3D cub/maps/<map_name>
+```
 
 Example:
-
+```bash
 ./cub3D cub/maps/museum.cub
+```
 
 ### Bonus Version
 
@@ -93,9 +95,11 @@ make bonus
 ```
 
 Run with:
-
+```bash
 ./cub3D_bonus bonus/maps/<map_name>
+```
 
 Example:
-
+```bash
 ./cub3D_bonus bonus/maps/museum_bonus.cub
+```
