@@ -124,3 +124,6 @@ MiniLibX
 X11  
 Math library  
 Unix system calls  
+
+
+This project is a group project in cooperation with Reu-si.
